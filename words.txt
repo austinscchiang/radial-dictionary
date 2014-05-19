@@ -513,7 +513,6 @@ addictive
 addicts
 addie
 addis
-addis-ababa
 addiscombe
 addresser
 adds
@@ -809,7 +808,6 @@ aggressor
 aggro
 aghast
 agia
-agia-napa
 agile
 agility
 agip
@@ -1979,7 +1977,6 @@ author
 authored
 authorial
 authoring
-auto-union
 autogenerating
 autoloads
 automatable
@@ -2059,7 +2056,6 @@ bacchus
 bach
 bacharach
 bacillus
-back-orifice
 backended
 backhanded
 backlogging
@@ -2510,7 +2506,6 @@ bethany
 bethesda
 bethlehem
 bethnal
-bethnal-green
 bethnalgreen
 betjeman
 betook
@@ -3289,7 +3284,6 @@ chapter
 char
 charade
 chardonnay
-charing-cross
 charingcross
 charlene
 charles
@@ -3645,7 +3639,6 @@ columbus
 colwyn
 coma
 combatted
-combe-martin
 comet
 cometh
 comets
@@ -3818,7 +3811,6 @@ cosmology
 cosmos
 cosponsors
 cossacks
-costa-rica
 costello
 costless
 costliest
@@ -3840,7 +3832,6 @@ courtenay
 courtney
 cousteau
 coutts
-covent-garden
 coventry
 covetous
 cow
@@ -4084,7 +4075,6 @@ daycare
 dayton
 daz
 dbase
-de-longhi
 deaggregate
 deaggregates
 deaggregation
@@ -6223,7 +6213,6 @@ harboured
 hardwares
 hardwiring
 harking
-harley-street
 harleystreet
 harm
 harman
@@ -6247,7 +6236,6 @@ harpsichords
 harrison
 harrods
 harrowing
-hatton-garden
 hauls
 hay
 headboard
@@ -6375,7 +6363,6 @@ hoek
 hoffnung
 hogged
 holier
-holland-park
 holmfirth
 holobyte
 holographs
@@ -6384,7 +6371,6 @@ homesick
 homeworkers
 homologated
 honalulu
-hong-kong
 honing
 honiton
 honor
@@ -6416,7 +6402,6 @@ humbug
 humor
 hungover
 hurdler
-hurdy-gurdy
 hussars
 hydrobromic
 hydrochloric
@@ -6922,14 +6907,12 @@ lambretta
 lambs
 lampoons
 lancers
-land-rovers
 languished
 lankier
 lankiest
 lapel
 larousse
 larval
-las-vegas
 latecomer
 laterals
 laths
@@ -6982,7 +6965,6 @@ lego
 lehrer
 leia
 leibniz
-leicester-square
 leicestersquare
 leisured
 lengthiest
@@ -7168,7 +7150,6 @@ macroviruses
 madasafish
 madder
 madeley
-madison-avenue
 madisonavenue
 madman
 mafioso
@@ -7183,7 +7164,6 @@ magoo
 mahler
 mahmoud
 maida
-maida-vale
 maidavale
 mailable
 mailbomb
@@ -7219,7 +7199,6 @@ mapmaker
 mappable
 maraschino
 marbella
-marble-arch
 marblearch
 marciano
 margie
@@ -7462,7 +7441,6 @@ misremembered
 misrepresent
 misrouted
 misrouting
-miss-marple
 missorting
 misstatement
 misstatements
@@ -7872,7 +7850,6 @@ nurk
 nurnberg
 nuzzled
 nycom
-o'toole
 oafish
 oastler
 oberon
@@ -8185,8 +8162,6 @@ owl
 owlish
 owlishly
 oxbridge
-oxford-circus
-oxford-street
 oxidation
 oxyacetylene
 oxygenated
@@ -8199,7 +8174,6 @@ pacifying
 packagers
 packers
 paddings
-paddington-green
 paddles
 paddocking
 pageant
@@ -8214,10 +8188,8 @@ palely
 paler
 palermo
 palest
-pall-mall
 pallettes
 pally
-palm-pilots
 palmas
 palmier
 palmiest
@@ -8569,7 +8541,6 @@ pornographically
 porpoise
 porthos
 portobello
-portobello-road
 posers
 posher
 positionable
@@ -8755,7 +8726,6 @@ pricings
 pricking
 pricks
 primitively
-primrose-hill
 primrosehill
 priorly
 privacies
@@ -9684,7 +9654,6 @@ scoffing
 scolloped
 scones
 scooby
-scooby-doo
 scorches
 scorekeeping
 scorpion
@@ -10348,7 +10317,6 @@ talladega
 tallahassee
 tambourine
 tamer
-tampa-bay
 tampax
 tampers
 tan
@@ -10397,7 +10365,6 @@ teesside
 teetering
 tehran
 teignmouth
-tel-aviv
 teleconferences
 telegrams
 telegraphic
@@ -11841,7 +11808,6 @@ warblers
 warblington
 warded
 warding
-wardour-street
 wardourstreet
 wargaming
 warhol
@@ -11874,7 +11840,6 @@ watermarks
 waterside
 waterworks
 watford
-watkins-glen
 wattles
 wave
 waxed
@@ -11936,7 +11901,6 @@ went
 were
 wessex
 west
-west-sussex
 westbourne
 westinghouse
 westminster
