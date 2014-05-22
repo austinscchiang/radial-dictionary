@@ -1,0 +1,108 @@
+{"letter":"a",
+"children":[
+{"letter":"a",
+ "children":[
+{"letter":"a",
+  "children":[
+{"letter":"a",
+   "children":[
+{"letter":"r",
+    "children":[
+{"letter":"r",
+     "children":[
+{"letter":"r",
+      "children":[
+{"letter":"r",
+       "children":[
+{"letter":"g",
+        "children":[
+{"letter":"g",
+         "children":[
+{"letter":"g",
+          "children":[
+{"letter":"g",
+           "children":[
+{"letter":"h",
+            "children":[
+{"letter":"h",
+             "children":[
+{"letter":"h",
+              "children":[
+{"letter":"h",
+},
+              ],
+},
+             ],
+},
+            ],
+},
+           ],
+},
+          ],
+},
+         ],
+},
+        ],
+},
+       ],
+},
+      ],
+},
+     ],
+},
+    ],
+},
+   ],
+},
+{"letter":"r",
+   "children":[
+{"letter":"g",
+    "children":[
+{"letter":"h",
+},
+    ],
+},
+   ],
+},
+  ],
+},
+ ],
+},
+{"letter":"b",
+ "children":[
+{"letter":"b",
+  "children":[
+{"letter":"c",
+   "children":[
+{"letter":"d",
+    "children":[
+{"letter":"e",
+     "children":[
+{"letter":"f",
+},
+     ],
+},
+    ],
+},
+   ],
+},
+{"letter":"d",
+   "children":[
+{"letter":"e",
+    "children":[
+{"letter":"f",
+     "children":[
+{"letter":"g",
+},
+     ],
+},
+    ],
+},
+   ],
+},
+  ],
+},
+ ],
+},
+],
+},

@@ -22,6 +22,11 @@ label {
 </style>
 <body>
 
+<form action="" id="input-form" onsubmit="return makeGraphOnSubmit()">
+  First Letters of word: <input type="text" id="letters"><br>
+  <input type="submit" value="Submit">
+</form>
+
 <form id="mode-form">
   <label><input type="radio" name="mode" value="radialtree" onclick = "change()">Radial Tree</label>
   <label><input type="radio" name="mode" value="radialcluster" onclick = "change()">Radial Cluster</label>
@@ -30,7 +35,8 @@ label {
 </form>
 
 
-<script src="d3.min.js"></script>
+<script src="d3/d3.min.js"></script>
 <script src="jquery-1.11.1.min.js"></script>
-<script src="getJSON.js"></script>
-<script src="main.js"></script>
+<script src="js/model.js"></script>
+<script src="js/view.js"></script>
+<script src="js/controller.js"></script>
